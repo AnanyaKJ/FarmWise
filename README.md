@@ -1,0 +1,1 @@
+FARMWISE : An AI-powered crop management web app that provides crop recommendations, irrigation suggestions, flood alerts, and water conservation tips using real-time data. The platform includes an AI chatbot, expert consultations, and a plant disease detection system trained with TensorFlow on Kaggle datasets.
